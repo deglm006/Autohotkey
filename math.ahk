@@ -7,6 +7,7 @@
 :*?:.grad::∇
 :*?:.and::∧
 :*?:.or::∨
+:*?:.not::¬
 :*?:.therefore::∴
 :*?:.because::∵
 :*?:.qed::□
