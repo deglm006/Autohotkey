@@ -8,6 +8,7 @@
 :*?:.and::∧
 :*?:.or::∨
 :*?:.not::¬
+:*?:.oplus::⊕
 :*?:.therefore::∴
 :*?:.because::∵
 :*?:.qed::□
