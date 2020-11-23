@@ -1,3 +1,5 @@
+@setlocal
+cd %~p0
 git pull
 ::This line is commented out.
 ::start Esperanto.ahk
